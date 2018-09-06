@@ -4,3 +4,5 @@
 This machine learning project predicts which football team will win the fifa world cup.
 
 Machine learning algorithm used for prediction is logistic regression
+
+Kaggle score 78%
